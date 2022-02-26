@@ -1,6 +1,6 @@
 # Abstract
 UMD Info Challenge 2022
-# Questions Of Interest
+# Questions of Interest
 ## What are some defining characteristics of removed PPP loans?
 
 ## How do the characteristics of loans that were removed compare to loan that were not removed?
